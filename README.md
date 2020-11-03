@@ -15,5 +15,39 @@ DAFTAR ISI
 ## Pertemuan 5 - Tugas
 
 Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar dibawah ini)
-![gitpush](Foto/pertemuanke5.PNG) <br>
+![gitpush](Foto_pertemuanke5.PNG) <br>
+Saat ini saya akan menjelaskan hasil dari tugas tersebut.<br>
+Berikut source code nya atau Klik Link berikut <br>
+![gitpush](Foto_biodata1.PNG)): <br>
+ ``` python
+print("==============================")
+print("= NAMA    : Indira Aline     ")
+print("= NIM     : 312010042         ")
+print("= KELAS   : TI.20 A.1         ")
+print("==============================")
 
+print("Please enter your full name : ")
+fullname=input()
+print("Please enter nickname : ")
+nickname=input()
+print("Please enter your NPM : ")
+npm=int(input())
+print("Please enter place of birth : ")
+pob=input()
+print("Please enter date of birth : ")
+date=int(input())
+print("Please enter your month of birth : ")
+month=input()
+print("Please enter year of birth : ")
+year=int(input())
+print("Please enter your phone number : ")
+phone=int(input())
+print("Please enter your address : ")
+address=input()
+
+dob=2020-year
+
+print("\n\n Assalamu'alaikum. ")
+print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")
+
+```

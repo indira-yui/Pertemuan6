@@ -63,4 +63,4 @@ print("Nama saya adalah...")
 print(1234567)
 
 (Seperti gambar dibawah ini) <br>
-![gitpush](Foto/pra.png) <br>
+![praa](Foto_pra.PNG) <br>

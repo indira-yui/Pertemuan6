@@ -66,3 +66,9 @@ print(1234567)
 ```
 (Seperti gambar dibawah ini) <br>
 ![Output Pungsi print](Foto/pra.png) <br>
+
+* Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini : <br>
+python
+fullname=input()
+Keterangan : <br> 
+![Output Fungsi Print](Foto/gitketerangan2.png) <br>

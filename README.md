@@ -51,3 +51,16 @@ print("\n\n Assalamu'alaikum. ")
 print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")
 
 ```
+Berikut Penjelasannya : <br>
+python
+print("please enter your full name : ")
+
+Source code diatas berfungsi untuk mencetak hasil / output berupa *Please enter your full name :* ". <br>
+ Untuk menampilkan output string, saya menggunakan tanda petik dua didalam fungsi print(), sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan tanda petik dua. Contohnya :
+ 
+  python
+print("Nama saya adalah...")
+print(1234567)
+
+(Seperti gambar dibawah ini) <br>
+![gitpush](Foto/biodata2_PNG) <br>

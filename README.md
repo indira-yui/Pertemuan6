@@ -73,3 +73,5 @@ fullname=input()
 
 Keterangan : <br> 
 ![Output Fungsi Print](Foto/gitketerangan2.png) <br>
+
+[input](Foto/gitfullname.PNG)

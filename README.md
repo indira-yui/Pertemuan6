@@ -15,10 +15,11 @@ DAFTAR ISI
 ## Pertemuan 5 - Tugas
 
 Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar dibawah ini)
-![gitpush](Foto_pertemuanke5.PNG) <br>
+![input biodata](Foto/pertemuanke5.png)<br>
+
 Saat ini saya akan menjelaskan hasil dari tugas tersebut.<br>
 Berikut source code nya atau Klik Link berikut <br>
-![gitpush](Foto_biodata1.PNG)): <br>
+![gitpush](Foto/biodata1.png)): <br>
  ``` python
 print("==============================")
 print("= NAMA    : Indira Aline     ")

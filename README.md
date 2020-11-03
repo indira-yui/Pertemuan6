@@ -63,4 +63,4 @@ print("Nama saya adalah...")
 print(1234567)
 
 (Seperti gambar dibawah ini) <br>
-![gitpush](Foto_biodata2.PNG): <br>
+![gitpush](Foto_biodata2.PNG)): <br>

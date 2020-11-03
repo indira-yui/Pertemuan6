@@ -89,14 +89,14 @@ Pada syntax/source diatas, saya menggunakan variable (dob) dimana untuk menghitu
 
 * langkah kali ini saya akan menampilkan output yang diminta oleh dosen.<br>
 output pertama yang diminta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax/source code berikut : 
->>>python
+python
 print("\n\n Assalamu'alaikum. ")
 
 Keterangan :
 1. Fungsi *\n* pada source code di atas adalah untuk memberi baris baru / enter / (newline)
 2. Fungsi print() seperti dijelaskan pada point *Output* diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini :<br>
-![Output Fungsi Print](Foto/pyfungsi.PNG)
+![Input](Foto/pyfungsi.PNG)
 
 
 

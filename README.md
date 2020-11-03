@@ -58,9 +58,10 @@ print("please enter your full name : ")
 Source code diatas berfungsi untuk mencetak hasil / output berupa *Please enter your full name :* ". <br>
  Untuk menampilkan output string, saya menggunakan tanda petik dua didalam fungsi print(), sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan tanda petik dua. Contohnya :
  
-  python
+ ```python
 print("Nama saya adalah...")
 print(1234567)
 
+```
 (Seperti gambar dibawah ini) <br>
-![praa](Foto_pra.PNG) <br>
+![Output Pungsi print](Foto/pra.png) <br>

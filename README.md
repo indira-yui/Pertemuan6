@@ -295,3 +295,22 @@ Untuk hasil dari String Format 2 adalah :<br>
 Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable<br>
 Tugas
 ![Picture Lab 2](Foto/pypicturelab2.png) <br> 
+
+```python
+a=input("masukkan nilai a : ")
+b=input("masukkan nilai b : ")
+print("variable a : ",a)
+print("variable b : ",b)
+print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
+
+#konversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
+
+<br>
+Setelah saya menjelaskan source code tersebut terdapat error, seperti gambar dibawah ini :<br>
+
+![Error Lab 2](Foto/pyerrorlab2.png) <br>

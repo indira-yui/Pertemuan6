@@ -283,3 +283,7 @@ print('{:<30}{:30}{:>30}'.format(7,20,34))
 
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 ![Output Alignment Contoh 2](Foto/pyalignment.png) <br>
+
+<br><br>
+Untuk hasil dari String Format 2 adalah :<br>
+![Output String Format 2](Foto/pystringformat2.png) <br>

@@ -74,7 +74,9 @@ fullname=input()
 
 ```
 Keterangan : <br> 
-![Output Fungsi Print](Foto/gitketerangan2.png) <br>
+>Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang berfungsi sebagai variable dalam source code diatas adalah *fullname* . <br>
+>Fungsi *input()* adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter (newline)<br> 
+ (newline)<br>
 
 [input](Foto/gitfullname.PNG)
 Pada gambar di atas, hasil dari inputan tersebut berwarna hijau <br>
@@ -101,7 +103,7 @@ Keterangan :
 1. Fungsi *\n* pada source code di atas adalah untuk memberi baris baru / enter / (newline)
 2. Fungsi print() seperti dijelaskan pada point *Output* diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini :<br>
-![Output Fungsi Print](Foto/pyfungsi.png) <br>
+![Output Salam](Foto/pyfungsi.png) <br>
 
 ```python
 print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")
@@ -111,7 +113,7 @@ Keterangan :
 1. Fungsi huruf *f* pada perintah print(f"....") adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable <br>
 Hasil dari output tersebut seperti berikut : <br>
-![Output Fungsi Print](Foto/pyoutput.png) <br>
+![All output](Foto/pyoutput.png) <br>
 
 <br>
 ---
@@ -170,7 +172,7 @@ print('z')
 ```
 
 Hasil dari source code tersebut seperti gambar dibawah ini : <br>
-![Output Fungsi Print](Foto/pyxyz.png) <br>
+![Output END](Foto/pyxyz.png) <br>
 
 * Penggunaan separator
 
@@ -208,7 +210,7 @@ print(w,x,y,z,sep="-----")`
 ```
 
 hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
-![Output Fungsi Print](Foto/pysource.png) <br>
+![Output Separator](Foto/pysource.png) <br>
 
 
 <br>
@@ -221,7 +223,7 @@ hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
 
 Penggunaan source code yang di berikan oleh dosen seperti berikut :
-![Output Fungsi Print](Foto/pylab1-2.png) <br>
+![Lab 1-2](Foto/pylab1-2.png) <br>
 
 ```python
 #string format 1

@@ -347,3 +347,11 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ```
 Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dibawah ini :<br>
 ![Fixed Error Lab 2](Foto/pyfixederrorlab2.png)
+<br><br>
+ <hr>
+ Setelah semua file berhasil disimpan dan dijalankan berhasil, maka selesai sudah Tugas pertemuan 6 - Bahasa pemrograman kali ini.
+ <br>
+ 
+ ### ============= THANK YOU ============= <br>
+ ### INDIRA ALINE / 312010042 / TI.20 A.1 <br>
+ ### ===================================== <br>

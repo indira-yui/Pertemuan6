@@ -259,5 +259,18 @@ Pada syntax / source code strring format satu akan menampilkan output berupa 2 o
 Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat.<br> 
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
 Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output  sebagai berikut : <br>
-![Output Fungsi Print](Foto/pypangkat10.png) <br>
+![Operasi Aritmatika Pangkat](Foto/pypangkat10.png) <br>
 
+2 * String Format 2* <br>
+ Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri )<br>
+ Dengan ketentuan sebagai berikut : <br>
+ >secara Default, *.format()* menggunakan rata kiri, angka ke kanan. kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan *.format()* sebagai berikut :<br> 
+
+```python
+print('{0:8} | {1:9}'.format('buah','Jumlah'))
+print('{0:8} | {1:9}'.format('Apel',3.))
+print('{0:8} | {1:9}'.format('Jeruk',10))
+```
+
+Hasil dari source code contoh diatas akan seperti berikut :<br>
+![Output Alignment Contoh](Foto/pyaritmatika.png) <br>

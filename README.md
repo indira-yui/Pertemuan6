@@ -208,4 +208,4 @@ print(w,x,y,z,sep="-----")`
 ```
 
 hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
-![Output Fungsi Print](Foto/pylab.png) <br>
+![Output Fungsi Print](Foto/pysource.png) <br>

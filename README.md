@@ -81,8 +81,10 @@ Pada gambar di atas, hasil dari inputan tersebut berwarna hijau <br>
 
 * Untuk menghitung rumus saya menggunakan variable DOB yaitu 2020 (Tahun sekarang) dikurangin dengan Year of Birt, pada source code berikut :<br>
 
-python
+''''python
 dob=2020-year
+
+'''''
 
 Pada syntax/source diatas, saya menggunakan variable (dob) dimana untuk menghitung umur (variable *age* pada output), yaitu dengan rumus pada variable dob=2020-year
 <br>
@@ -97,6 +99,18 @@ Keterangan :
 2. Fungsi print() seperti dijelaskan pada point *Output* diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini :<br>
 ![Output Fungsi Print](Foto/pyfungsi.png) <br>
+
+'''python
+print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")
+
+Keterangan : 
+1. Fungsi huruf *f* pada perintah print(f"....") adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )<br>
+2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable <br>
+Hasil dari output tersebut seperti berikut : <br>
+![Output Fungsi Print](Foto/pyoutput.png) <br>
+
+
+
 
 
 

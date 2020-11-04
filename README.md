@@ -209,3 +209,16 @@ print(w,x,y,z,sep="-----")`
 
 hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 ![Output Fungsi Print](Foto/pysource.png) <br>
+
+
+<br>
+<hr>
+<br>
+
+## Pertemuan 6 - Lab 1-2
+
+* String Format<br>
+String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
+
+Penggunaan source code yang di berikan oleh dosen seperti berikut :
+![Output Fungsi Print](Foto/pylab1-2.png) <br>
